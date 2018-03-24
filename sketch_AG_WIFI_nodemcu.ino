@@ -5,6 +5,7 @@ WiFiServer server(82);
 const char* ssid = "Primeiro";
 const char* password = "fluminense";
 IPAddress ip(192,168,0,255); 
+lembrar mudar ip
 IPAddress gateway(192,168,0,1); 
 IPAddress subnet(255,255,255,0); 
 
